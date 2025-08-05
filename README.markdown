@@ -65,6 +65,3 @@ The thesis is in `docs/thesis.pdf` [to be added]. Abstract:
 ## License
 MIT License. See `LICENSE` for details.
 
-## Acknowledgments
-- [Supervisor Name] for guidance.
-- [University Name] for resources.
